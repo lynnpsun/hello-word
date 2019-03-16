@@ -1,3 +1,2 @@
 # hello-word
-Just another repository
-Hi there, here is the testng again.
+This file is in second_branch
